@@ -1,7 +1,7 @@
 ## Copyrights
 
-Author: Zach Mayer
-License: MIT
+- Author: Zach Mayer
+- License: MIT
 
 ## LEGAL
 
